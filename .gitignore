@@ -1,0 +1,124 @@
+# ============================
+# Python
+# ============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.pyo
+
+# ============================
+# Virtual Environment
+# ============================
+venv/
+env/
+ENV/
+.venv/
+
+# ============================
+# Environment Variables
+# ============================
+.env
+.env.*
+
+# ============================
+# Streamlit
+# ============================
+.streamlit/secrets.toml
+
+# ============================
+# IDE Files
+# ============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ============================
+# Operating System Files
+# ============================
+.DS_Store
+Thumbs.db
+
+# ============================
+# Logs
+# ============================
+*.log
+logs/
+
+# ============================
+# Build / Distribution
+# ============================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ============================
+# Testing
+# ============================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ============================
+# Jupyter Notebook
+# ============================
+.ipynb_checkpoints/
+
+# ============================
+# Model Files
+# ============================
+*.h5
+*.keras
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.joblib
+*.pkl
+
+# ============================
+# Vector Database / RAG
+# ============================
+rag_index/
+*.faiss
+*.index
+*.db
+*.sqlite
+*.sqlite3
+chroma_db/
+chromadb/
+
+# ============================
+# Uploaded Files
+# ============================
+uploads/
+temp/
+tmp/
+cache/
+
+# ============================
+# PDF & Documents (Optional)
+# Uncomment if you don't want
+# to upload datasets/documents
+# ============================
+# *.pdf
+# *.docx
+# *.txt
+
+# ============================
+# Generated Reports
+# ============================
+reports/
+exports/
+scorecard.csv
+
+# ============================
+# Misc
+# ============================
+*.bak
+*.tmp
+*.cache
