@@ -177,20 +177,6 @@ Personalized Feedback
 
 ---
 
-# 📈 Future Improvements
-
-- Voice-based Interview
-- Video Interview Analysis
-- Facial Emotion Detection
-- Real-time AI Interviewer
-- ATS Resume Score
-- Interview History Dashboard
-- Export Interview Report (PDF)
-- Multi-language Support
-- Authentication & User Profiles
-- Leaderboard & Progress Tracking
-
----
 
 # 👨‍💻 Author
 
